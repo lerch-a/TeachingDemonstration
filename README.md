@@ -14,7 +14,7 @@ library(dada2)
 library(Biostrings)
 ```
 
-## Download data and sripts
+## Download data and scripts
 To get the data and scripts needed for the teaching demonstration, go to the green "Code" button and chose "download ZIP". After downloading uncompress the zip file.
 
 
