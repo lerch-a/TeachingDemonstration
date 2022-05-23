@@ -15,13 +15,13 @@ library(Biostrings)
 ```
 
 ## Download data and scripts
-To get the data and scripts needed for the teaching demonstration, go to the green "Code" button and chose "download ZIP". After downloading uncompress the zip file.
+To get the data and scripts needed for the teaching demonstration, go to the green "Code" button and chose "download ZIP". After downloading uncompress the "TeachingDemonstration-main.zip" file.
 
 
 ## Run scripts
 To execute the scripts, open RStudio or R and change the working directory to the "TeachingDemonstration" folder with
 ```{r}
-setwd("path/to/TeachingDemonstration")
+setwd("path/to/TeachingDemonstration-main")
 ```
 
 Then open scripts "scriptTheory.R" or "scriptExercise.R" and copy&paste the code in the R command prompt 
